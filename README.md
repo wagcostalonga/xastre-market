@@ -1,4 +1,4 @@
-<h1 align="center">Xastre Market :cocktail:</h1>
+<h1 align="center">Xastre Market :convenience_store:</h1>
 
 <h3 align="center">Aplicação para cadastro de produtos</h3>
 
