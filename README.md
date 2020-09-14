@@ -15,7 +15,7 @@ Backend:
 - Express;
 - Docker;
 - Postgres SQL;
-- Sequelize;
+- Sequelize ORM;
 
 Frontend:
 
